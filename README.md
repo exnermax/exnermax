@@ -13,7 +13,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hallo ihr!, Ich bin
+        <samp>&gt; Hallo, hier bin ich!
                 <b><a target="_blank" href="https://www.exnermax.de/">Max Exner</a></b>
         </samp>
 </h3>
@@ -22,7 +22,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 Ich bin Auszubildender Fachinformatiker für Anwendungsentwicklung von <b>Germany</b> 」
     <br>
     <br>
   </samp>
