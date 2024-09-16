@@ -51,7 +51,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/programmer.jpeg" alt="Coding gif" />
   
  ✌️ &emsp; Spaß am Programmieren und am Wissensaustausch <br/><br/>
  ❤️ &emsp; Ich Liebe es neue Cods zu Schreiben und neue Dinge zu lernen<br/><br/>
