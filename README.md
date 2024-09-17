@@ -4,7 +4,7 @@
 <!--- Dateiname:    readme.md                                                                                             --->
 <!--- Autor:        Max Exner                                                                                             --->               
 <!--- Datum:        11.03.2024                                                                                            --->
-<!--- Version:      V1.0                                                                                                  --->
+<!--- Version:      V1.1                                                                                                  --->
 <!--- Beschreibung: GitHub Profil readme.                                                                                 --->
 <!--- ------------------------------------------------------------------------------------------------------------------- --->
 <!---                                                                                                                     --->
@@ -51,7 +51,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/programmer.jpeg" alt="Coding gif" />
   
  ✌️ &emsp; Spaß am Programmieren und am Wissensaustausch <br/><br/>
  ❤️ &emsp; Ich Liebe es neue Cods zu Schreiben und neue Dinge zu lernen<br/><br/>
