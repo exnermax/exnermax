@@ -1,158 +1,108 @@
 <!--
-  ██████████████████████████████████████████████████████████
-  ██  MAX EXNER — GitHub Profile README  v2.0  (2026)      ██
-  ██  Autor: Max Exner  |  business@exnermax.com           ██
-  ██████████████████████████████████████████████████████████
+  ╔══════════════════════════════════════════════════════════╗
+  ║         MAX EXNER — GitHub Profile  2026                ║
+  ╚══════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://exnermax.de">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+ich+bin+Max+Exner+%F0%9F%91%8B;Fachinformatiker+Anwendungsentwicklung;Building+cool+stuff+since+2022;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Max%20Exner&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Germany%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=58&descSize=18"/>
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://exnermax.de" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-exnermax.de-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/exnermax" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-exnermax-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:business@exnermax.com">
-    <img src="https://img.shields.io/badge/Email-business@exnermax.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/exnermax" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@exnermax-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
+<a href="https://exnermax.de"><img src="https://img.shields.io/badge/exnermax.de-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/exnermax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:business@exnermax.com"><img src="https://img.shields.io/badge/business@exnermax.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/exnermax"><img src="https://img.shields.io/badge/@exnermax-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=exnermax&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%26+ERP+Developer;SQL+%2F+C%23+%2F+PHP+%2F+.NET;Building+internal+tools+%26+automations;Always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=exnermax&color=58A6FF&style=flat-square&label=profile+views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Über mich / About me
+## `whoami`
 
-```yaml
-name:        Max Exner
-location:    Germany 🇩🇪
-role:        Fachinformatiker Anwendungsentwicklung (Azubi)
-focus:       ERP Systems · SQL · C# · Web Development · AI Automation
-languages:   German (native), English (professional)
-contact:     business@exnermax.com
-status:      Open to interesting projects & opportunities ✅
+```typescript
+const max = {
+  location:  "Germany 🇩🇪",
+  role:      "Software Developer",
+  focus:     ["ERP Systems", "Backend Development", "API Integration", "AI Automation"],
+  stack:     ["C#", ".NET", "SQL", "PHP", "HTML/CSS"],
+  tools:     ["Visual Studio", "VS Code", "Postman", "Git", "GitHub Copilot"],
+  learning:  ["TypeScript", "React", "Docker", "Vue.js"],
+  contact:   "business@exnermax.com",
+};
 ```
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💡 Currently working with
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+**Backend & Systems**
 
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### 📚 Learning in 2026
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
+
+**Currently Learning**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=exnermax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&cache_seconds=1800"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exnermax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&cache_seconds=1800"/>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=exnermax&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exnermax&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=exnermax&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=exnermax&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=exnermax&theme=github-dark-blue&hide_border=true&date_format=j.%20M%5B%20Y%5D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 </div>
 
 ---
 
-## 🎯 Was mich antreibt / What drives me
-
-```
-🏗️  ERP & Business Systems     ████████████░░  85%
-🌐  Web Development             ████████░░░░░░  60%
-🤖  AI & Automation             ███████░░░░░░░  55%
-📊  SQL & Datenbanken           █████████░░░░░  70%
-⚙️  C# / .NET                  ████████░░░░░░  60%
-```
-
----
-
-## 🌍 Interessen / Interests
-
-- 🎮 Gaming & Minecraft Server Administration (Custom Plugins, LuckPerms, Multiverse)
-- 🤖 AI-Automatisierung für Business-Prozesse
-- 🌏 Internationale Tech-Karriere — besonders Japan interessiert mich sehr
-- ⌨️ Mechanical Keyboards & optimales Developer-Setup
-- 📚 Continuous Learning — jeden Tag etwas Neues
-
----
-
-## 💬 Let's connect!
+## 📫 Get in touch
 
 <div align="center">
-  <a href="https://exnermax.de">
-    <img src="https://img.shields.io/badge/🌐 Visit my Website-00D9FF?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="mailto:business@exnermax.com">
-    <img src="https://img.shields.io/badge/📧 Drop me a Mail-EA4335?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/exnermax/exnermax/issues">
-    <img src="https://img.shields.io/badge/💬 Ask me anything-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+Immer offen für spannende Projekte, Kollaborationen oder einen guten Tech-Talk.
+
+<br/>
+
+<a href="https://exnermax.de"><img src="https://img.shields.io/badge/🌐 Website-000000?style=for-the-badge"/></a>
+<a href="mailto:business@exnermax.com"><img src="https://img.shields.io/badge/📧 Mail-EA4335?style=for-the-badge"/></a>
+<a href="https://github.com/exnermax/exnermax/issues"><img src="https://img.shields.io/badge/💬 Ask me anything-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=Thanks+for+stopping+by!&fontSize=20&fontColor=ffffff&animation=twinkling"/>
-</div>
-
-<!--
-  SEO Meta-Keywords (für GitHub-Suche):
-  Fachinformatiker Anwendungsentwicklung, C#, .NET, SQL, PHP, ERP, 
-  Web Development, Germany, API Integration, GitHub, Software Developer
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
