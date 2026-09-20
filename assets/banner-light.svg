@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Max Exner — Backend and ERP Developer, Germany">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#FBFCFD"/>
+      <stop offset="100%" stop-color="#F4F7FA"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0969DA" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0969DA" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#8250DF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;0;-1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2;0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0969DA" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0969DA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0 L0 0 0 30" fill="none" stroke="#E1E7EE" stroke-width="1"/>
+    </pattern>
+    <clipPath id="c0"><rect x="56" y="132" height="26" width="0"><animate attributeName="width" values="0;235;235;0;0" keyTimes="0;0.1;0.283;0.333;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c1"><rect x="56" y="132" height="26" width="0"><animate attributeName="width" values="0;0;214;214;0;0" keyTimes="0;0.333;0.433;0.617;0.667;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="56" y="132" height="26" width="0"><animate attributeName="width" values="0;0;245;245;0" keyTimes="0;0.667;0.767;0.95;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect width="900" height="220" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="220" rx="14" fill="url(#grid)" opacity="0.55"/>
+  <ellipse cx="740" cy="72" rx="240" ry="150" fill="url(#glow)"/>
+
+  <g stroke="#A9B4C0" stroke-width="1.2" fill="none" opacity="0.9">
+    <path d="M690 62 L760 44 L822 78"/>
+    <path d="M690 62 L734 110 L822 78"/>
+    <path d="M734 110 L760 44"/>
+    <path d="M734 110 L806 148 L822 78"/>
+  </g>
+  <g fill="#0969DA">
+    <circle cx="690" cy="62" r="4.5"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="44" r="4.5" fill="#8250DF"><animate attributeName="opacity" values="1;0.35;1" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="822" cy="78" r="4.5"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="734" cy="110" r="4.5" fill="#1A7F37"><animate attributeName="opacity" values="1;0.4;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="806" cy="148" r="4.5"><animate attributeName="opacity" values="0.5;1;0.5" dur="4.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="56" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#1F2328" letter-spacing="1.5" textLength="286" lengthAdjust="spacingAndGlyphs">MAX EXNER</text>
+  <rect x="56" y="102" width="286" height="2.5" rx="1.25" fill="#D8DEE4"/>
+  <rect x="56" y="102" width="286" height="2.5" rx="1.25" fill="url(#rule)"/>
+
+  <g clip-path="url(#c0)"><text x="56" y="151" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#59636E" textLength="235" lengthAdjust="spacingAndGlyphs">Backend &amp; ERP Developer</text></g>
+  <g clip-path="url(#c1)"><text x="56" y="151" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#59636E" textLength="214" lengthAdjust="spacingAndGlyphs">C# · .NET · SQL · PHP</text></g>
+  <g clip-path="url(#c2)"><text x="56" y="151" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#59636E" textLength="245" lengthAdjust="spacingAndGlyphs">Internal tools &amp; automation</text></g>
+  <rect y="134" width="2.5" height="22" fill="#0969DA" x="56">
+    <animate attributeName="x" values="56;291;291;56;56;270;270;56;56;301;301;56" keyTimes="0;0.1;0.283;0.333;0.333;0.433;0.617;0.667;0.667;0.767;0.95;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.48;0.5;0.98;1;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#6E7781">
+    <text x="56" y="184" textLength="72" lengthAdjust="spacingAndGlyphs">Germany</text>
+    <circle cx="142" cy="180" r="2" fill="#C4CCD6"/>
+    <text x="156" y="184" textLength="120" lengthAdjust="spacingAndGlyphs">exnermax.de</text>
+    <circle cx="290" cy="180" r="2" fill="#C4CCD6"/>
+    <text x="304" y="184" fill="#1A7F37" textLength="128" lengthAdjust="spacingAndGlyphs">open to work</text>
+  </g>
+  <circle cx="296" cy="180" r="0" fill="#1A7F37"/>
+</svg>
